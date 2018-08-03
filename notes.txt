@@ -1,0 +1,14 @@
+Frontend 
+
+Landing Page 
+    -- render out two links. One to recipes, one to to do list
+
+To Do List
+    -- ability to create item, delete item and edit item
+    -- use conditional renderinging on update
+ 
+Recipes 
+    --view recipe information by clicking div passing id to backend 
+    --filter component if time based on query 
+    --set up routes
+    --use props.children and nested route
